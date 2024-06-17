@@ -1,5 +1,4 @@
 function laCajaDePandora(numero) {
-    //SEBA
     // Verificar si el número es par o impar
     if (numero % 2 === 0) {
         // Convertir a binario
